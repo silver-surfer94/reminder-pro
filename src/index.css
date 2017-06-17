@@ -1,0 +1,65 @@
+body {
+  background: #fff;
+}
+
+.App {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  color: #173E5F;
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.title img {
+  height: 100px;
+  width: 140px;
+  display: inline;
+}
+
+input {
+  margin: 5px;
+}
+
+.reminder-form {
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.list-item {
+  display: inline-block;;
+}
+
+.list-group-item {
+  background-color: #F5FBFF;
+  border: 1px solid #C1C1C1;
+}
+
+.delete-button {
+  float: right;
+  padding-left: 5px;
+  cursor: pointer;
+}
+
+
+
+.thumbnail-img {
+  height: 100px;
+  width: auto;
+  margin-right: 10px;
+}
+
+.rem-txt {
+  font-size: 1.25em;
+}
+
+.header {
+  display: inline-flex;
+  text-align: middle;
+  justify: center;
+}
