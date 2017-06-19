@@ -1,6 +1,6 @@
 ## Reminder Pro
 
-App that creates reminders and assignes a random photo to each of them. 
+App that creates reminders and assigns a random photo to each of them. 
 
 Uses ReactJS, Redux, Element-React and cookies.
 
